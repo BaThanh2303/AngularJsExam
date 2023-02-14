@@ -1,0 +1,20 @@
+.error {
+    color: red;
+  }
+body{
+    background-color: rgb(185, 188, 190);
+    padding-top: 200px;
+}
+.container .regis{
+    background-color: rgb(232, 231, 231);
+    padding: 50px;
+    border-radius: 10px;
+    max-height: 800px;
+    
+}
+.container .login{
+    background-color: rgb(213, 212, 212);
+    padding: 100px;
+    border-radius: 10px;
+    max-height: 800px;
+}
